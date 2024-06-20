@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686918400 source:d:\ide's\codeblocks\projects\main projects\encryption\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<vector>
+
